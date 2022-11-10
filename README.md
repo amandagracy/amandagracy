@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amandagracy, AKA Amanda Meireles!
 - 👀 I’m interested in technology, art, writing and more.
-- 🌱 I’m currently learning how to be a Front-end development.
+- 🌱 I’m currently learning how to be a Front-end developer.
 - 💞️ I'll soon collaborate on coding through freelancing.
 - 📫 Reach me in: amandameirelesgracy@gmail.com
 
